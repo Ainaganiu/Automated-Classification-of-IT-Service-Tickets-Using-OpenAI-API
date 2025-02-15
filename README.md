@@ -13,15 +13,12 @@ This project explores the use of **Large Language Models (LLMs)**, specifically 
 - Each ticket contains **unstructured text** describing an issue and a corresponding **labeled category**.
 
 ## **Implementation Steps**
-1. **Data Preprocessing**
-   - Loaded and cleaned IT service tickets.
-   - Standardized text formatting for better model interpretation.
 
-2. **LLM Classification using OpenAI API**
+1. **LLM Classification using OpenAI API**
    - Sent ticket descriptions as **prompts** to the OpenAI API.
    - Extracted category predictions based on model output.
 
-3. **Accuracy Evaluation**
+2. **Accuracy Evaluation**
    - Compared the **model’s predictions** against the **pre-labeled categories**.
    - Calculated accuracy as **53%**, though the true accuracy remains uncertain due to potential inconsistencies in the dataset.
 
