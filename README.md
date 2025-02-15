@@ -37,9 +37,11 @@ This project explores the use of **Large Language Models (LLMs)**, specifically 
 - **Python**  
 - **OpenAI API**  
 - **Pandas** (for data manipulation)  
-- **Jupyter Notebook** (for development and testing)  
+- **Jupyter Notebook** (for development and testing)
 
 ## **Next Steps & Future Improvements**
 🚀 **Improve Accuracy** by refining prompt structure and experimenting with temperature settings.  
 📊 **Expand Dataset** to test model performance on a larger sample.  
 🔄 **Compare with Traditional Models** like **Logistic Regression** or **Random Forest** for benchmarking.
+
+**[Click to View the Code](https://github.com/Ainaganiu/Automated-Classification-of-IT-Service-Tickets-Using-OpenAI-API/blob/main/IT_Ticket_Classification.ipynb)**
